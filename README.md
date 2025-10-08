@@ -1,6 +1,6 @@
 # 🌐 TATA – GenAI Powered Data Analytics Job Simulation (Forage)
 
-![TATA Logo](https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Tata_logo.svg/1200px-Tata_logo.svg.png)
+
 
 ## 🚀 Overview
 
@@ -60,8 +60,7 @@ This simulation provided a real-world experience of working in **TATA’s Data A
 
 ## 🏆 Certificate of Completion
 
-🎓 [View Certificate on Forage](https://www.theforage.com/virtual-experience/programs/tata-data-analytics)  
-*(Replace the above link with your actual certificate URL)*
+🎓 [View Certificate on Forage](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_p4aDGkugw8dRD3HhD_1759684672907_completion_certificate.pdf)  
 
 ---
 
@@ -69,8 +68,8 @@ This simulation provided a real-world experience of working in **TATA’s Data A
 
 **👤 Selvakumar S**  
 💼 Data & AI Enthusiast | Aspiring ML Engineer  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🌐 [GitHub Profile](https://github.com/yourusername)  
+📧 (mailto:sk.selvakumar379@gmail.com)  
+🌐 [GitHub Profile](https://github.com/SelvaS7)  
 
 ---
 
