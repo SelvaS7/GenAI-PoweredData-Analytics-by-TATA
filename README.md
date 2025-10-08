@@ -50,18 +50,6 @@ Through this virtual experience, I explored **real-world data analytics workflow
 
 ---
 
-## 🧾 Project Deliverables
-
-| Deliverable | Description | Link |
-|-------------|-------------|------|
-| 📘 **Word Report** | AI-generated insights & business recommendations | [Download](./TATA_GenAI_Report.docx) |
-| 📊 **PowerPoint Presentation** | Data storytelling with visuals and summaries | [Download](./TATA_GenAI_Presentation.pptx) |
-| 🧮 **Dataset Analysis** | Cleaned & explored datasets using Python/Excel | [Download](./TATA_Dataset_Analysis.xlsx) |
-| 💡 **Executive Summary** | Condensed AI-assisted business insights | [Download](./TATA_Executive_Summary.pdf) |
-
-> 💡 *Note: Replace the download links with your actual files in the repo.*
-
----
 
 ## 🧰 Tools & Technologies Used
 
